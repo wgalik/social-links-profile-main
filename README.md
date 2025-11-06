@@ -1,13 +1,13 @@
-## Frontend Mentor - Social links profile solution
+# Frontend Mentor - Social links profile solution
 
 This is my solution to the Social links profile challenge on Frontend Mentor.
 Frontend Mentor challenges help you improve your front-end skills by building real-world projects.
 
-# Overview
+## Overview
 
 [Link](https://wgalik.github.io/social-links-profile-main/)
 
-# My process
+## My process
 
 Built with:
 
@@ -23,7 +23,7 @@ What I learned
 This project helped me practice using SCSS variables, mixins, and nesting to keep styles organized and reusable.
 I also learned how to create clean, minimal components with hover transitions and responsive card layouts.
 
-# Useful resources
+## Useful resources
 
 [Sass Documentation](https://sass-lang.com/documentation/)
 – Helped me understand nesting and mixin syntax.
@@ -34,6 +34,6 @@ I also learned how to create clean, minimal components with hover transitions an
 [MDN – clamp()](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp)
 – Useful for making text and spacing responsive.
 
-# Acknowledgments
+## Acknowledgments
 
 Thanks to Frontend Mentor for providing fun, design-based challenges that help developers strengthen their CSS and layout skills through real projects.
