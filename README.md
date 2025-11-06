@@ -5,7 +5,7 @@ Frontend Mentor challenges help you improve your front-end skills by building re
 
 # Overview
 
-Link
+[Link](https://wgalik.github.io/social-links-profile-main/)
 
 # My process
 
@@ -37,4 +37,3 @@ I also learned how to create clean, minimal components with hover transitions an
 # Acknowledgments
 
 Thanks to Frontend Mentor for providing fun, design-based challenges that help developers strengthen their CSS and layout skills through real projects.
-
